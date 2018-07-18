@@ -1,25 +1,6 @@
 ### Data Question 1
 #### A guided exploration of UN data
 
-#### Week 1 – 3 (August 14 - September 1)
-
-- What does gdp per capita look like for different countries?
-- Does use of the internet vary amongst different countries?
-- Are these things related in any way?
-- Are there any surprising things about gdp per capita and/or internet use in the data?
-
-
-##### Learning objectives:
-* Get familiar with Jupyter Notebooks
-* Learn to read a csv file into your local environment with pandas
-* Explore individual variables and their relationship to other variables in the dataset
-* Get experience using pandas, matplotlib, seaborn; get introduced to numpy, scipy
-* Create a GitHub account
-  - clone a repository 
-  - add files
-  - commit files
-  - push files
-
 ##### In-class practice 1:
 1.	Download two CSV files:
 
