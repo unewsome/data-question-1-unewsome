@@ -2,7 +2,8 @@
 #### A guided exploration of UN data
 
 ##### In-class practice 1:
-1.	Download two CSV files:
+1. create a folder called `data` in your local `Data Question 1` repository.
+88.	Download two CSV files and place them in this folder:
 
     a.	Gross Domestic Product (GDP) per capita http://data.un.org/Data.aspx?d=WDI&f=Indicator_Code%3aNY.GDP.PCAP.PP.KD **DO NOT APPLY ANY FILTERS**
      - rename the file to gdp_percapita.csv
